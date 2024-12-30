@@ -21,6 +21,16 @@ main {
     position: relative;
 }
 
+section#textos {
+    font-size: 1.2em;
+    font-family: cursive, Arial, Helvetica, sans-serif;
+    color: wheat;
+    text-align: center;
+    margin: auto;
+    padding: 50px;
+    text-shadow: 1px 1px 20px rgba(255, 255, 255, 0.5);
+}
+
 section#dispositivo {
     position: absolute;
     top: 50%;
