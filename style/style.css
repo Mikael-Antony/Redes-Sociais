@@ -11,7 +11,7 @@ html, body {
 }
 
 body {
-    background: url('../imagens/fundo-madeira.jpg') no-repeat top center;
+    background: url('../imagens/fundo.jpg') no-repeat top center;
     background-size: cover;
     background-attachment: fixed;
 }
@@ -57,5 +57,5 @@ section#rs img:hover {
     width: 60px;
     box-shadow: 4px 5px 10px rgba(0, 0, 0, 1);
     transform: translate(-1px, -0px);
-    transition: border-radius 1s, border 1s, transform .9s, width .5s, box-shadow .5s;
+    transition: border-radius .2s, border .2s, transform .2s, width .2s, box-shadow .2s;
 }
